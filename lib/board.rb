@@ -1,5 +1,5 @@
 # Define the variable board below.
-board = Array.new[]
+board = Array.new[" "]
 board[0]=" "
 board[1]=" "
 board[2]=" "
