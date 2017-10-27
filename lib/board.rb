@@ -1,2 +1,3 @@
 # Define the variable board below.
-board = Array.new[" ", " ", " ", " ", " ", " ", " ", " ", " "]
+array = Array.new[" ", " ", " ", " ", " ", " ", " ", " ", " "]
+board = array
